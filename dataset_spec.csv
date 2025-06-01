@@ -28,7 +28,7 @@
 26,asus intel core i5 12th gen windows 11 home 512 gb 16 14 17000000
 27,asus intel core i7 12th gen windows 11 home 1 tb 16 gb 14 25000000
 28,asus intel core i5 12th gen windows 11 home 512 gb 16 14000000
-29,asus intel core i7 12th gen windows 11 home 512 gb 16 14 19000000
+29,asus intel core i7 12th gen windows 11 home 512 gb 16 14 20000000
 30,asus intel core i7 12th gen windows 11 home 512 gb 16 18000000
 31,asus intel core i5 12th gen windows 11 home 512 gb 16 14 21000000
 32,dell windows 11 home 256 gb 8 14 8000000
@@ -45,7 +45,7 @@
 43,asus intel core i3 11th gen windows 10 home 256 gb 8 15.6 7000000
 44,dell intel core i5 11th gen windows 11 home 512 gb 16 15.6 14000000
 45,dell intel core i7 12th gen windows 11 home 1 tb 16 gb 22000000
-46,dell intel core i7 12th gen windows 11 home 512 gb 16 19000000
+46,dell intel core i7 12th gen windows 11 home 512 gb 16 20000000
 47,dell intel core i5 11th gen windows 11 home 512 gb 8 15.6 13000000
 48,acer intel core i5 11th gen windows 11 home 512 gb 8 9000000
 49,asus intel core i3 11th gen windows 11 home 256 gb 8 15.6 9000000
@@ -53,8 +53,8 @@
 51,asus intel core i5 11th gen windows 11 home 512 gb 16 15.6 12000000
 52,hp intel core i5 11th gen windows 11 home 512 gb 8 12000000
 53,hp windows 11 home 512 gb 16 14 13000000
-54,hp windows 11 home 512 gb 16 14 11000000
-55,asus intel core i5 11th gen windows 10 home 1 tb 8 gb 15.6 14000000
+54,hp windows 11 home 512 gb 16 14 12000000
+55,asus intel core i5 11th gen windows 10 home 1 tb 8 gb 15.6 15000000
 56,acer windows 11 home 256 gb 4 4000000
 57,acer windows 11 home 128 gb 4 4000000
 58,acer intel core i5 11th gen windows 11 home 512 gb 8 15.6 12000000
@@ -116,12 +116,12 @@
 114,hp intel core i9 11th gen windows 11 pro 1 tb 32 gb 15.6 39000000
 115,hp chrome 4 gb 5000000
 116,hp chrome 4 gb 5000000
-117,hp intel core i7 11th gen windows 11 pro 1 tb 16 gb 30000000
+117,hp intel core i7 11th gen windows 11 pro 1 tb 16 gb 31000000
 118,hp windows 11 home 512 gb 8 10000000
 119,hp windows 11 home 512 gb 8 11000000
 120,hp windows 11 home 512 gb 8 11000000
 121,hp windows 11 home 512 gb 8 10000000
-122,hp intel core i7 11th gen windows 11 pro 1 tb 16 gb 30000000
+122,hp intel core i7 11th gen windows 11 pro 1 tb 16 gb 31000000
 123,dell intel core i3 11th gen windows 11 home 512 gb 8 8000000
 124,asus windows 11 home 512 gb 16 15.6 10000000
 125,asus intel core i3 11th gen dos 256 gb 4 15.6 6000000
@@ -136,7 +136,7 @@
 134,lenovo windows 11 home 512 gb 8 11000000
 135,lenovo intel core i3 11th gen windows 11 home 512 gb 8 8000000
 136,hp intel core i5 11th gen windows 11 home 512 gb 16 14 14000000
-137,lenovo intel core i7 11th gen windows 11 home 512 gb 16 18000000
+137,lenovo intel core i7 11th gen windows 11 home 512 gb 16 19000000
 138,dell windows 11 home 512 gb 8 8000000
 139,dell intel core i3 10th gen windows 11 home 512 gb 8 15.6 7000000
 140,hp intel core i3 11th gen windows 10 home 512 gb 8 8000000
@@ -148,7 +148,7 @@
 146,hp windows 11 home 1 tb 16 gb 16.1 23000000
 147,hp intel core i3 11th gen windows 11 home 8 gb 15.6 7000000
 148,hp windows 11 home 8 gb 15.6 7000000
-149,asus windows 11 home 512 gb 8 15000000
+149,asus windows 11 home 512 gb 8 16000000
 150,asus intel core i5 10th gen windows 11 home 512 gb 8 11000000
 151,hp intel core i3 11th gen windows 11 home 512 gb 8 15.6 8000000
 152,asus windows 11 home 1 tb 16 gb 21000000
@@ -157,7 +157,7 @@
 155,lenovo windows 11 home 512 gb 16 13.3 15000000
 156,asus intel pentium quad core 10th gen windows 11 home 128 gb 4 13.3 10000000
 157,asus intel core i7 11th gen windows 10 home 512 gb 16 17.3 18000000
-158,hp intel core i5 11th gen windows 10 pro 512 gb 8 15.6 16000000
+158,hp intel core i5 11th gen windows 10 pro 512 gb 8 15.6 17000000
 159,msi intel core i7 12th gen windows 11 home 1 tb 16 gb 15.6 49000000
 160,msi intel core i7 12th gen windows 11 home 1 tb 16 gb 15.6 34000000
 161,samsung windows 11 home 4 gb 7000000
@@ -187,10 +187,10 @@
 185,asus windows 11 home 1 tb 16 gb 21000000
 186,infinix intel core i7 10th gen windows 11 home 512 gb 16 9000000
 187,asus intel core i9 12th gen windows 11 home 2 tb 32 gb 15.6 50000000
-188,asus windows 11 home 1 tb 16 gb 14 18000000
+188,asus windows 11 home 1 tb 16 gb 14 19000000
 189,asus windows 11 home 1 tb 8 gb 14 22000000
-190,asus windows 10 home 1 tb 8 gb 18000000
-191,asus windows 11 home 1 tb 16 gb 30000000
+190,asus windows 10 home 1 tb 8 gb 19000000
+191,asus windows 11 home 1 tb 16 gb 31000000
 192,asus intel core i5 11th gen windows 11 home 512 gb 16 15000000
 193,asus windows 11 home 1 tb 16 gb 25000000
 194,asus intel core i5 11th gen windows 11 home 256 gb 8 14 9000000
@@ -198,20 +198,20 @@
 196,dell intel core i3 10th gen windows 11 home 512 gb 8 7000000
 197,asus intel core i5 11th gen windows 11 home 512 gb 8 13000000
 198,asus intel core i3 11th gen windows 11 home 256 gb 8 6000000
-199,dell windows 10 home 8 gb 15.6 9000000
+199,dell windows 10 home 8 gb 15.6 10000000
 200,hp windows 11 home 256 gb 8 14 6000000
 201,asus intel core i5 11th gen windows 11 home 512 gb 16 15000000
 202,asus intel core i7 11th gen windows 11 home 512 gb 16 17000000
 203,asus windows 11 home 1 tb 16 gb 21000000
-204,dell intel core i3 11th gen windows 10 home 256 gb 8 7000000
-205,hp windows 10 home 512 gb 8 16.1 12000000
+204,dell intel core i3 11th gen windows 10 home 256 gb 8 8000000
+205,hp windows 10 home 512 gb 8 16.1 13000000
 206,acer windows 11 home 4 gb 15.6 5000000
 207,acer intel core i3 11th gen windows 11 home 256 gb 4 15.6 6000000
 208,acer intel core i3 11th gen windows 11 home 512 gb 8 7000000
 209,hp intel core i5 11th gen windows 10 home 512 gb 8 16.1 15000000
 210,acer intel core i5 11th gen windows 11 home 8 gb 9000000
 211,acer windows 11 home 256 gb 4 4000000
-212,lenovo intel core i5 11th gen windows 11 home 512 gb 16 11000000
+212,lenovo intel core i5 11th gen windows 11 home 512 gb 16 12000000
 213,lenovo intel core i3 11th gen windows 11 home 512 gb 8 7000000
 214,lenovo intel core i5 10th gen windows 11 home 512 gb 8 8000000
 215,lenovo intel core i5 11th gen windows 11 home 512 gb 8 9000000
@@ -224,9 +224,9 @@
 222,hp intel core i3 11th gen windows 11 home 256 gb 8 15.6 7000000
 223,dell windows 11 home 512 gb 16 15.6 21000000
 224,dell intel core i5 11th gen windows 11 home 512 gb 16 15.6 16000000
-225,dell intel core i7 11th gen windows 11 home 512 gb 16 15.6 18000000
+225,dell intel core i7 11th gen windows 11 home 512 gb 16 15.6 19000000
 226,msi intel core i7 11th gen windows 10 home 512 gb 16 18000000
-227,dell intel core i7 11th gen windows 11 home 512 gb 16 15.6 18000000
+227,dell intel core i7 11th gen windows 11 home 512 gb 16 15.6 19000000
 228,msi amd ryzen 7 octa core 5th gen windows 11 home 512 gb 8 15.6 13000000
 229,hp intel core i3 11th gen windows 11 home 512 gb 8 15.6 8000000
 230,hp intel core i5 11th gen windows 11 home 512 gb 8 10000000
@@ -242,27 +242,27 @@
 240,asus intel core i3 11th gen windows 11 home 512 gb 8 14 8000000
 241,asus windows 11 home 4 gb 13.3 8000000
 242,asus windows 11 home 256 gb 8 10000000
-243,asus intel core i7 11th gen windows 11 home 512 gb 16 19000000
+243,asus intel core i7 11th gen windows 11 home 512 gb 16 20000000
 244,asus intel core i7 11th gen windows 11 home 1 tb 16 gb 14 25000000
-245,asus intel core i5 11th gen windows 11 home 512 gb 8 14 18000000
+245,asus intel core i5 11th gen windows 11 home 512 gb 8 14 19000000
 246,asus intel core i3 11th gen windows 11 home 512 gb 8 14 8000000
 247,asus intel core i5 11th gen windows 11 home 512 gb 16 16000000
 248,asus intel core i3 11th gen windows 11 home 512 gb 8 14 8000000
 249,asus windows 11 home 256 gb 4 5000000
 250,asus intel core i5 11th gen windows 11 home 512 gb 16 14 21000000
-251,asus intel core i5 11th gen windows 11 home 512 gb 8 14 18000000
+251,asus intel core i5 11th gen windows 11 home 512 gb 8 14 19000000
 252,dell intel core i5 11th gen windows 11 home 512 gb 16 15.6 13000000
 253,dell intel core i5 10th gen windows 11 home 512 gb 16 15.6 13000000
 254,lenovo intel core i5 11th gen windows 11 home 512 gb 16 14 13000000
 255,hp windows 11 home 512 gb 8 15.6 9000000
 256,hp windows 11 home 512 gb 8 15.6 9000000
-257,hp intel core i3 11th gen windows 11 home 512 gb 8 15.6 7000000
+257,hp intel core i3 11th gen windows 11 home 512 gb 8 15.6 8000000
 258,lenovo intel core i5 11th gen windows 11 home 512 gb 8 15.6 10000000
 259,asus windows 10 home 512 gb 16 14 15000000
 260,asus windows 10 home 512 gb 16 14 15000000
 261,asus intel core i5 11th gen windows 11 home 512 gb 16 14 12000000
 262,asus intel core i3 10th gen windows 10 pro 256 gb 8 15.6 7000000
-263,acer windows 11 home 1 tb 16 gb 14 18000000
+263,acer windows 11 home 1 tb 16 gb 14 19000000
 264,acer intel core i5 11th gen windows 11 home 512 gb 8 14000000
 265,lenovo intel core i3 10th gen windows 11 home 8 gb 6000000
 266,dell intel core i5 11th gen windows 11 home 512 gb 8 15.6 16000000
@@ -332,7 +332,7 @@
 330,asus windows 10 home 4 gb 15.6 5000000
 331,acer intel core i5 11th gen windows 11 home 512 gb 8 15.6 11000000
 332,asus intel core i3 11th gen windows 11 home 512 gb 8 14.1 7000000
-333,asus intel core i5 11th gen windows 11 home 512 gb 16 17.3 10000000
+333,asus intel core i5 11th gen windows 11 home 512 gb 16 17.3 11000000
 334,asus amd ryzen 9 octa core 11th gen windows 10 home 1 tb 16 gb 14 25000000
 335,hp intel core i3 11th gen windows 10 8 gb 15.6 8000000
 336,asus intel core i5 11th gen windows 10 home 256 gb 8 14 8000000
@@ -358,11 +358,11 @@
 356,asus intel core i3 10th gen windows 10 home 8 gb 14.1 5000000
 357,lenovo intel core i3 10th gen windows 11 home 256 gb 4 7000000
 358,msi intel core i5 11th gen windows 10 home 512 gb 8 14 10000000
-359,hp intel core i3 11th gen windows 11 home 512 gb 8 15.6 7000000
+359,hp intel core i3 11th gen windows 11 home 512 gb 8 15.6 8000000
 360,hp intel core i3 11th gen windows 11 home 512 gb 8 14 10000000
 361,hp intel core i5 11th gen windows 11 home 512 gb 8 15.6 10000000
-362,lenovo intel core i3 11th gen windows 11 home 512 gb 8 15.6 7000000
-363,hp intel core i3 11th gen windows 11 home 512 gb 8 15.6 7000000
+362,lenovo intel core i3 11th gen windows 11 home 512 gb 8 15.6 8000000
+363,hp intel core i3 11th gen windows 11 home 512 gb 8 15.6 8000000
 364,hp intel core i5 11th gen windows 10 home 512 gb 16 13.5 21000000
 365,lenovo windows 11 home 512 gb 8 15.6 9000000
 366,lenovo intel core i3 11th gen windows 11 home 256 gb 8 14 7000000
@@ -387,14 +387,14 @@
 385,dell intel core i3 10th gen windows 11 home 256 gb 4 14 6000000
 386,dell windows 11 home 256 gb 8 14 8000000
 387,dell windows 11 home 512 gb 8 15.6 12000000
-388,dell intel core i3 11th gen windows 11 home 256 gb 8 7000000
+388,dell intel core i3 11th gen windows 11 home 256 gb 8 8000000
 389,dell windows 11 home 256 gb 8 7000000
 390,dell windows 11 home 256 gb 8 8000000
 391,dell intel core i5 11th gen windows 11 home 512 gb 16 13000000
 392,dell intel core i3 11th gen windows 11 home 256 gb 8 15.6 9000000
 393,dell windows 11 home 512 gb 8 15.6 9000000
 394,asus intel core i5 11th gen windows 10 home 512 gb 16 10000000
-395,dell intel core i5 11th gen windows 10 home 512 gb 16 15.6 13000000
+395,dell intel core i5 11th gen windows 10 home 512 gb 16 15.6 14000000
 396,asus intel core i3 11th gen windows 11 home 512 gb 8 15.6 9000000
 397,dell intel core i5 10th gen windows 10 512 gb 8 15.6 14000000
 398,dell windows 10 256 gb 8 15.6 9000000
@@ -443,7 +443,7 @@
 441,asus intel core i3 11th gen windows 10 home 256 gb 8 15.6 7000000
 442,lenovo intel core i5 10th gen windows 11 home 512 gb 8 15.6 10000000
 443,hp intel core i3 10th gen windows 10 512 gb 8 14.1 8000000
-444,dell windows 10 1 tb 8 gb 15.6 10000000
+444,dell windows 10 1 tb 8 gb 15.6 11000000
 445,infinix intel core i7 10th gen windows 11 home 512 gb 16 9000000
 446,hp intel core i3 11th gen windows 11 home 256 gb 8 14 7000000
 447,infinix intel core i3 10th gen windows 11 home 256 gb 8 14 5000000
@@ -455,7 +455,7 @@
 453,lenovo intel core i3 11th gen windows 11 home 512 gb 8 15.6 8000000
 454,hp intel core i3 11th gen windows 10 home 8 gb 7000000
 455,lenovo windows 11 home 512 gb 8 14 9000000
-456,asus intel core i5 11th gen windows 10 home 256 gb 16 11000000
+456,asus intel core i5 11th gen windows 10 home 256 gb 16 12000000
 457,asus windows 10 home 512 gb 16 17000000
 458,asus intel core i3 11th gen windows 11 home 256 gb 8 14.1 7000000
 459,lenovo windows 11 home 512 gb 16 14 12000000
@@ -492,7 +492,7 @@
 490,acer intel core i5 11th gen windows 11 home 512 gb 8 14 11000000
 491,hp windows 11 home 512 gb 16 14 11000000
 492,lenovo intel core i7 10th gen windows 10 512 gb 16 12 32000000
-493,hp intel core i5 11th gen windows 10 home 512 gb 8 15.6 11000000
+493,hp intel core i5 11th gen windows 10 home 512 gb 8 15.6 12000000
 494,hp windows 10 home 512 gb 8 14 10000000
 495,asus amd ryzen 7 octa core 4th gen windows 10 home 1 tb 8 gb 14 15000000
 496,lenovo windows 10 home 1 tb 16 gb 15.6 26000000
@@ -506,8 +506,8 @@
 504,msi intel core i5 11th gen windows 10 home 512 gb 16 13000000
 505,lenovo windows 11 home 512 gb 16 13.3 14000000
 506,lenovo intel core i3 11th gen windows 10 home 256 gb 4 15.6 8000000
-507,apple mac os monterey 1 tb 16 gb 14.2 42000000
-508,lenovo intel core i5 10th gen windows 10 home 8 gb 15.6 11000000
+507,apple mac os monterey 1 tb 16 gb 14.2 43000000
+508,lenovo intel core i5 10th gen windows 10 home 8 gb 15.6 12000000
 509,asus windows 10 home 512 gb 8 15.6 14000000
 510,acer windows 10 home 256 gb 16 15.6 15000000
 511,hp intel core i7 11th gen windows 10 home 1 tb 16 gb 13.5 24000000
@@ -522,7 +522,7 @@
 520,dell intel core i3 10th gen windows 10 256 gb 8 15.6 8000000
 521,dell intel core i3 11th gen windows 10 home 8 gb 15.6 8000000
 522,lenovo intel celeron dual core 4th gen chrome 4 gb 14 4000000
-523,dell windows 10 512 gb 8 15000000
+523,dell windows 10 512 gb 8 16000000
 524,hp windows 10 home 1 tb 16 gb 16.1 26000000
 525,asus intel core i5 11th gen windows 10 home 256 gb 8 15.6 10000000
 526,dell intel core i5 11th gen windows 10 home 512 gb 16 15.6 13000000
@@ -530,7 +530,7 @@
 528,dell intel core i5 11th gen windows 10 256 gb 8 15.6 13000000
 529,nokia intel core i5 11th gen windows 11 home 512 gb 8 14 8000000
 530,nokia intel core i5 11th gen windows 11 home 512 gb 16 14 9000000
-531,dell intel core i3 11th gen windows 10 256 gb 8 14 7000000
+531,dell intel core i3 11th gen windows 10 256 gb 8 14 8000000
 532,dell intel core i5 11th gen windows 10 512 gb 8 14 15000000
 533,dell intel core i5 11th gen windows 10 512 gb 16 14 13000000
 534,dell intel core i5 11th gen windows 10 512 gb 8 14 14000000
@@ -538,7 +538,7 @@
 536,dell windows 10 512 gb 16 15000000
 537,dell intel core i3 10th gen windows 10 256 gb 8 8000000
 538,dell windows 10 256 gb 4 7000000
-539,hp intel core i5 11th gen windows 10 home 512 gb 8 13.3 19000000
+539,hp intel core i5 11th gen windows 10 home 512 gb 8 13.3 20000000
 540,dell intel core i3 10th gen windows 10 256 gb 8 15.6 8000000
 541,dell windows 10 256 gb 8 8000000
 542,nokia intel core i5 10th gen windows 10 home 512 gb 8 14 7000000
@@ -584,7 +584,7 @@
 582,hp intel core i7 11th gen windows 10 home 512 gb 16 18000000
 583,lenovo intel core i5 11th gen windows 10 home 512 gb 8 14 10000000
 584,redmibook intel core i3 11th gen windows 10 512 gb 8 8000000
-585,lenovo intel core i3 10th gen windows 10 256 gb 8 15.6 7000000
+585,lenovo intel core i3 10th gen windows 10 256 gb 8 15.6 8000000
 586,lenovo windows 10 home 4 gb 15.6 6000000
 587,acer windows 10 home 256 gb 4 15.6 6000000
 588,hp windows 10 home 256 gb 8 15.6 6000000
@@ -625,7 +625,7 @@
 623,asus intel core i5 11th gen windows 10 home 1 tb 8 gb 15.6 14000000
 624,asus intel core i5 11th gen windows 10 home 512 gb 8 17.3 13000000
 625,asus intel core i7 11th gen windows 10 home 1 tb 16 gb 15.6 19000000
-626,asus intel core i5 10th gen windows 10 home 256 gb 8 15.6 11000000
+626,asus intel core i5 10th gen windows 10 home 256 gb 8 15.6 12000000
 627,asus intel core i5 9th gen windows 10 home 256 gb 8 15.6 11000000
 628,asus intel core i7 10th gen windows 10 home 512 gb 8 15.6 12000000
 629,asus windows 10 home 1 tb 8 gb 14 14000000
@@ -680,7 +680,7 @@
 678,asus windows 10 home 1 tb 16 gb 15.6 29000000
 679,hp windows 10 512 gb 8 15.6 11000000
 680,asus windows 10 home 512 gb 8 15.6 13000000
-681,asus intel core i5 11th gen windows 10 home 256 gb 8 15.6 11000000
+681,asus intel core i5 11th gen windows 10 home 256 gb 8 15.6 12000000
 682,lenovo intel core i3 10th gen windows 10 home 256 gb 8 14 7000000
 683,redmibook intel core i5 11th gen windows 10 home 512 gb 8 15.6 9000000
 684,redmibook intel core i3 11th gen windows 10 home 256 gb 8 15.6 7000000
@@ -692,7 +692,7 @@
 690,acer windows 10 home 512 gb 8 14 10000000
 691,asus windows 10 home 512 gb 16 13.3 14000000
 692,dell intel core i5 11th gen windows 10 256 gb 8 13000000
-693,dell intel core i3 11th gen windows 10 8 gb 7000000
+693,dell intel core i3 11th gen windows 10 8 gb 8000000
 694,dell intel core i5 11th gen windows 10 512 gb 8 10000000
 695,lenovo intel core i5 11th gen windows 10 home 512 gb 8 15.6 11000000
 696,dell intel core i3 11th gen windows 10 home 256 gb 4 14 6000000
@@ -703,7 +703,7 @@
 701,lenovo intel core i5 11th gen windows 10 home 256 gb 8 15.6 10000000
 702,asus intel core i3 11th gen windows 10 256 gb 4 15.6 7000000
 703,lenovo intel core i7 10th gen windows 10 home 512 gb 8 14000000
-704,asus intel core i3 10th gen windows 10 home 512 gb 8 15.6 7000000
+704,asus intel core i3 10th gen windows 10 home 512 gb 8 15.6 8000000
 705,asus intel core i3 10th gen windows 10 home 512 gb 4 15.6 7000000
 706,asus intel core i5 10th gen windows 10 home 512 gb 8 15.6 9000000
 707,asus intel core i5 10th gen windows 10 home 512 gb 8 15.6 9000000
@@ -716,7 +716,7 @@
 714,lenovo intel core i3 10th gen windows 10 home 8 gb 15.6 6000000
 715,lenovo intel core i3 11th gen windows 10 home 256 gb 8 15.6 7000000
 716,avita windows 10 home 128 gb 4 4000000
-717,asus windows 10 home 1 tb 16 gb 26000000
+717,asus windows 10 home 1 tb 16 gb 27000000
 718,acer intel core i3 11th gen windows 10 home 256 gb 8 8000000
 719,acer intel core i5 11th gen windows 10 home 256 gb 8 10000000
 720,hp intel core i5 10th gen windows 10 home 512 gb 8 10000000
@@ -737,7 +737,7 @@
 735,asus windows 10 home 1 tb 32 gb 45000000
 736,asus chrome 4 gb 15.6 4000000
 737,hp windows 10 home 512 gb 16 16000000
-738,asus windows 10 home 4 gb 11.6 3000000
+738,asus windows 10 home 4 gb 11.6 4000000
 739,lenovo windows 10 home 512 gb 8 15.6 14000000
 740,asus windows 10 home 1 tb 8 gb 14.1 13000000
 741,lenovo windows 10 4 gb 14 5000000
@@ -750,7 +750,7 @@
 748,asus windows 10 home 512 gb 8 14 11000000
 749,lenovo windows 10 4 gb 5000000
 750,hp intel core i3 10th gen windows 10 home 512 gb 8 15.6 8000000
-751,dell intel core i5 11th gen windows 10 512 gb 16 15000000
+751,dell intel core i5 11th gen windows 10 512 gb 16 16000000
 752,asus intel core i5 10th gen windows 10 home 256 gb 8 15.6 10000000
 753,dell intel core i5 11th gen windows 10 512 gb 16 13000000
 754,dell windows 10 512 gb 8 11000000
@@ -759,7 +759,7 @@
 757,dell intel core i5 11th gen windows 10 512 gb 16 16000000
 758,dell intel core i7 11th gen windows 10 1 tb 16 gb 34000000
 759,asus windows 10 home 512 gb 16 14000000
-760,hp windows 10 home 512 gb 8 15.6 11000000
+760,hp windows 10 home 512 gb 8 15.6 12000000
 761,dell intel core i5 11th gen windows 10 512 gb 16 15000000
 762,dell intel core i5 11th gen windows 10 512 gb 8 13000000
 763,asus intel core i7 11th gen windows 10 home 1 tb 8 gb 20000000
@@ -795,8 +795,8 @@
 793,lenovo intel core i5 11th gen windows 10 home 512 gb 16 15000000
 794,lenovo intel core i7 11th gen windows 10 home 1 tb 16 gb 14 18000000
 795,lenovo intel core i5 11th gen windows 10 home 256 gb 8 15.6 9000000
-796,asus amd ryzen 7 octa core 5th gen windows 10 home 1 tb 8 gb 14 20000000
-797,lenovo intel core i5 11th gen windows 10 home 512 gb 8 15000000
+796,asus amd ryzen 7 octa core 5th gen windows 10 home 1 tb 8 gb 14 21000000
+797,lenovo intel core i5 11th gen windows 10 home 512 gb 8 16000000
 798,lenovo intel core i5 11th gen windows 10 home 512 gb 8 12000000
 799,hp intel core i3 11th gen windows 10 512 gb 8 15.6 8000000
 800,lenovo intel core i5 10th gen windows 10 home 512 gb 8 15.6 10000000
@@ -823,7 +823,7 @@
 821,acer intel core i5 10th gen windows 10 home 512 gb 8 15.6 10000000
 822,asus intel octa core i7 10th gen windows 10 home 1 tb 16 gb 15.6 17000000
 823,asus amd ryzen 5 hexa core 4th gen windows 10 512 gb 8 14 16000000
-824,asus windows 10 home 512 gb 8 14 11000000
+824,asus windows 10 home 512 gb 8 14 12000000
 825,msi intel hexa core i5 10th gen windows 10 home 512 gb 16 15.6 14000000
 826,asus amd ryzen 5 hexa core 5th gen windows 10 home 512 gb 8 14 14000000
 827,dell intel core i5 11th gen windows 10 512 gb 8 12000000
@@ -843,10 +843,10 @@
 841,acer windows 10 home 256 gb 16 15.6 18000000
 842,asus intel core i7 11th gen windows 10 home 1 tb 16 gb 14 26000000
 843,asus intel core i5 10th gen windows 10 home 1 tb 8 gb 15.6 14000000
-844,dell intel core i3 11th gen windows 10 512 gb 8 11000000
+844,dell intel core i3 11th gen windows 10 512 gb 8 12000000
 845,msi intel core i5 11th gen windows 10 home 512 gb 16 14 15000000
 846,hp windows 10 home 512 gb 8 15.6 9000000
-847,asus windows 10 home 1 tb 16 gb 13.4 18000000
+847,asus windows 10 home 1 tb 16 gb 13.4 19000000
 848,msi intel core i7 11th gen windows 10 home 512 gb 8 14 13000000
 849,asus windows 10 home 1 tb 16 gb 13.4 22000000
 850,asus windows 10 home 1 tb 32 gb 13.4 24000000
@@ -877,7 +877,7 @@
 875,asus windows 10 home 256 gb 8 15.6 14000000
 876,asus intel core i3 11th gen windows 10 home 512 gb 8 14 8000000
 877,asus windows 10 home 512 gb 8 15.6 9000000
-878,acer intel octa core i7 10th gen windows 10 home 256 gb 16 15.6 18000000
+878,acer intel octa core i7 10th gen windows 10 home 256 gb 16 15.6 19000000
 879,dell intel core i3 10th gen windows 10 home 8 gb 15.6 8000000
 880,asus intel core i5 11th gen windows 10 home 512 gb 8 13.3 15000000
 881,lenovo intel core i3 11th gen windows 10 home 256 gb 4 15.6 8000000
@@ -903,7 +903,7 @@
 901,hp intel core i5 11th gen windows 10 home 512 gb 8 15.6 11000000
 902,hp intel core i3 11th gen windows 10 home 512 gb 8 15.6 9000000
 903,hp intel core i5 11th gen windows 10 home 512 gb 8 15.6 11000000
-904,lenovo intel core i3 11th gen windows 10 home 512 gb 8 14 10000000
+904,lenovo intel core i3 11th gen windows 10 home 512 gb 8 14 11000000
 905,lenovo intel core i3 11th gen windows 10 home 512 gb 8 14 10000000
 906,apple mac os big sur 512 gb 8 13.3 19000000
 907,acer windows 10 home 512 gb 8 15.6 10000000
@@ -912,8 +912,8 @@
 910,lenovo intel core i5 10th gen windows 10 home 256 gb 8 15.6 11000000
 911,lenovo intel core i7 11th gen windows 10 home 1 tb 16 gb 14 32000000
 912,hp intel core i5 11th gen windows 10 pro 512 gb 8 13.3 17000000
-913,dell intel core i3 10th gen windows 10 home 8 gb 7000000
-914,lenovo intel core i7 11th gen windows 10 home 512 gb 16 14 18000000
+913,dell intel core i3 10th gen windows 10 home 8 gb 8000000
+914,lenovo intel core i7 11th gen windows 10 home 512 gb 16 14 19000000
 915,lenovo intel core i5 9th gen windows 10 home 256 gb 8 15.6 12000000
 916,dell intel core i5 11th gen windows 10 home 8 gb 14 9000000
 917,dell intel core i3 10th gen windows 10 home 256 gb 4 15 7000000
@@ -932,19 +932,19 @@
 930,hp intel core i3 11th gen windows 10 home 8 gb 15.6 8000000
 931,msi intel core i3 10th gen windows 10 home 512 gb 8 14 9000000
 932,msi intel core i7 11th gen windows 10 pro 1 tb 16 gb 15.6 29000000
-933,dell intel core i5 11th gen windows 10 home 512 gb 8 14 12000000
+933,dell intel core i5 11th gen windows 10 home 512 gb 8 14 13000000
 934,dell intel core i3 11th gen windows 10 home 512 gb 4 14 11000000
 935,dell intel core i5 11th gen windows 10 home 512 gb 8 13.3 22000000
 936,lenovo windows 10 home 256 gb 8 15.6 11000000
 937,dell intel core i5 8th gen windows 10 256 gb 8 15.6 10000000
 938,hp intel core i3 11th gen windows 10 home 8 gb 15.6 7000000
-939,vaio intel core i5 8th gen windows 10 home 512 gb 8 14 11000000
+939,vaio intel core i5 8th gen windows 10 home 512 gb 8 14 12000000
 940,dell intel core i5 11th gen windows 10 home 512 gb 8 14.5 16000000
 941,acer intel core i7 10th gen windows 10 home 2 tb 16 gb 15.6 30000000
 942,lenovo windows 10 home 512 gb 8 15.6 14000000
 943,lenovo intel core i5 10th gen windows 11 home 512 gb 8 15.6 9000000
 944,acer intel core i5 10th gen windows 10 home 8 gb 15.6 8000000
-945,asus intel core i3 11th gen windows 10 home 256 gb 4 14 7000000
+945,asus intel core i3 11th gen windows 10 home 256 gb 4 14 8000000
 946,asus intel core i5 11th gen windows 10 home 512 gb 8 14 11000000
 947,vaio windows 10 home 512 gb 8 15.6 11000000
 948,apple mac os big sur 512 gb 8 13.3 24000000
@@ -955,7 +955,7 @@
 953,vaio windows 10 home 512 gb 8 15.6 9000000
 954,apple mac os big sur 256 gb 8 13.3 16000000
 955,apple mac os big sur 256 gb 8 13.3 20000000
-956,apple mac os big sur 512 gb 8 13.3 19000000
+956,apple mac os big sur 512 gb 8 13.3 20000000
 957,apple mac os big sur 512 gb 8 13.3 24000000
 958,lenovo windows 10 home 512 gb 8 14 10000000
 959,acer windows 10 home 512 gb 8 15.6 9000000

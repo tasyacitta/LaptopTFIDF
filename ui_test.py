@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+import pandas as pd
+import requests
 
 if 'show_display' not in st.session_state:
     st.session_state.show_display = False
@@ -39,6 +41,7 @@ with st.expander('Data Specification'):
     data_spec
     st.write(f"Jumlah Baris dalam DataFrame: {data_spec.shape[0]}")
     st.write(f"Total Kolom dalam DataFrame: {data_spec.shape[1]}")
+    # st.write(data_clean['pricing'])
 
 with st.form("form_input"):
     unique_display = sorted(filter(lambda x: x != ' ', data_clean['display'].unique()))
@@ -66,7 +69,7 @@ with st.form("form_input"):
 
     #selected_display = st.selectbox("Pilih Display:", unique_display)
     #selected_pricing = st.selectbox("Pilih Rentang Harga:", unique_pricing)
-
+    # unique_pricing
    
     submitted = st.form_submit_button("Submit")
     # Initialize session state if not already set
